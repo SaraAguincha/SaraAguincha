@@ -1,6 +1,13 @@
 ### <h1 align="Center"> Hi there, I'm Sara Aguincha </h1>
 
 <h4 align="Center"> I'm currently in my third year of studies towards a bachelor's in Computer Science  </h4>
+<h4 align="Center"> 
+  <td width="30%">
+      <a href="https://tecnico.ulisboa.pt/pt/" target="_blank">
+        <img width="20%" src="https://math.tecnico.ulisboa.pt/img/Tecnico_logo.svg" alt="Técnico Logo"/>
+      </a>
+    </td>
+</div>
 <h4 align="Center">  at Instituto Superior Técnico. </h4>
 
 <div align="Center">
